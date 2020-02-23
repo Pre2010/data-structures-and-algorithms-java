@@ -62,9 +62,9 @@ public class selectionSort {
 //			then sets temp to position of current index in the array
 //			sets value current index to position of the next index 
 //			and then sets the value of next index to the temp variable position
-			int temp = array[indexCurrent];
+			int tempIndex = array[indexCurrent];
 			array[indexCurrent] = array[indexNext];
-			array[indexNext] = temp;
+			array[indexNext] = tempIndex;
 			
 		}
 		
