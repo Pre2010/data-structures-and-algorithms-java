@@ -11,7 +11,7 @@ public class bubbleSort {
 //			Bubble sort algorithm takes the first index and compares it to the next index so see if the first index is larger. 
 //			If so, swaps places with it and continues to do the same for the rest of the array.
 //			If it is equal, it does not swap places and goes on to the index after the one that was just compared.
-//			Quadratic time coimplexity: O(n^2) where n is number of items sorted
+//			Quadratic time complexity: O(n^2) where n is number of items sorted
 		
 //		dummy data
 		int[] intArray = {20,35, -15, 7, 55, 1, -22};

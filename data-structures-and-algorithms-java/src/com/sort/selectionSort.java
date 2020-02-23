@@ -17,8 +17,8 @@ public class selectionSort {
 //			it becomes the number to compare by until it finds another larger number and so on. 
 //			Once that is complete and the largest number has been compared to all of the numbers in the array,
 //			it swaps positions with the last number in the array. Rinse and repeat.
-//		Unstable algorithm. Requires less swapping than bubble sort.
-//		quadratic time complexity : O(n^2) where n is number of items sorted
+//			Unstable algorithm. Requires less swapping than bubble sort.
+//			quadratic time complexity : O(n^2) where n is number of items sorted
 		
 //		dummy data
 		int[] intArray = {20,35, -15, 7, 55, 1, -22};
